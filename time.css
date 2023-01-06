@@ -12,3 +12,17 @@ body {
   width: 450px;
   border-radius: 5px;
 }
+
+h1 {
+  margin-bottom: 0;
+}
+
+.relogio {
+  font-size: 3em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.pausado {
+  color: red;
+}
