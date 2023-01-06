@@ -6,3 +6,11 @@ body {
   margin-right: auto;
 }
 
+#div_time {
+  /* display: flex; */
+  /* flex-direction: column; */
+  background-color: antiquewhite;
+  padding: 25px;
+  width: 450px;
+  border-radius: 5px;
+}
