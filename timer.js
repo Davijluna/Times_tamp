@@ -41,3 +41,10 @@ document.addEventListener('click', function(e) {
   //   iniciaRelogio();
   // }  
 });
+
+function iniciaRelogio() {
+  timer = setInterval(function() {
+   second += 1;
+   relogio.innerHTML = getSecond(second);
+  }, 1000);
+ }
