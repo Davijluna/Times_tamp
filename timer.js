@@ -34,12 +34,6 @@ document.addEventListener('click', function(e) {
     clearInterval(timer);
     iniciaRelogio();
   }  
-
-  // if (el.classList.contains('iniciar')) {
-  //   relogio.classList.remove('pausado');
-  //   clearInterval(timer);
-  //   iniciaRelogio();
-  // }  
 });
 
 function iniciaRelogio() {
