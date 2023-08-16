@@ -21,7 +21,7 @@ $ git@github.com:Davijluna/Times_tamp.git
 ```
 ```bash 
 # Entrar no diretório
-$ cd projectLumiere
+$ cd Times_tamps
 ```
 ```bash 
 # instalando dependêcia
